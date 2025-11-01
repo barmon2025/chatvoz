@@ -1,0 +1,7 @@
+{
+  "name": "Asistente de Poblaciones (Voz)",
+  "description": "Una aplicación de chat de voz en español que utiliza la API Gemini Live para responder preguntas sobre datos de población específicos de un archivo JSON.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
